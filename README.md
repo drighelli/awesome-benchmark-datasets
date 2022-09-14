@@ -14,7 +14,7 @@ At the moment we distinguish these sections:
 
 |scRNAseq||||
 |:-|:-|:-|:-|
-|YYYY|[NAME](LINK)|DESCRIPTION| [CITATION](CITATION LINK)|  
+|YYYY|[scRNAseq](https://bioconductor.org/packages/release/data/experiment/html/scRNAseq.html)|Collection of scRNAseq datasets| [Risso D, Cole M (2022)](https://bioconductor.org/packages/release/data/experiment/html/scRNAseq.html)|  
 
 ### Reference datasets
 |Reference Dataset||||
