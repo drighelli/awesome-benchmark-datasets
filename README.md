@@ -19,5 +19,5 @@ At the moment we distinguish these sections:
 ### Reference datasets
 |Reference Dataset||||
 |:-|:-|:-|:-|
-|2019|[celldex](https://bioconductor.org/packages/3.15/data/experiment/html/celldex.html)|reference datasets for cell-type annotations|(Aran D. et al. 2019)[https://www.nature.com/articles/s41590-018-0276-y]
+|2019|[celldex](https://bioconductor.org/packages/3.15/data/experiment/html/celldex.html)|reference datasets for cell-type annotations|[Aran D. et al. 2019](https://www.nature.com/articles/s41590-018-0276-y)
 
