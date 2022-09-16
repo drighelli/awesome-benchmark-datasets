@@ -15,6 +15,7 @@ At the moment we distinguish these sections:
 |scRNAseq||||
 |:-|:-|:-|:-|
 |YYYY|[scRNAseq](https://bioconductor.org/packages/release/data/experiment/html/scRNAseq.html)|Collection of scRNAseq datasets| [Risso D, Cole M (2022)](https://bioconductor.org/packages/release/data/experiment/html/scRNAseq.html)|  
+|2018|[DuoClustering2018](https://bioconductor.org/packages/DuoClustering2018/)|Collection of scRNAseq datasets used for benchmarking clustering methods| See references in [Duo et al (2018)](https://f1000research.com/articles/7-1141)|  
 
 ### Reference datasets
 |Reference Dataset||||
